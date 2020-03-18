@@ -1,0 +1,11 @@
+sr: 44100
+audio_length: 3
+mel_bins: 64
+n_fft: 1024
+hop_size: 512
+batch_size: 4
+spec_aug:
+  T_width: 30
+  F_width: 13
+  T_line_num: 2
+  F_line_num: 2

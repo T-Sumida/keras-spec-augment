@@ -1,0 +1,4 @@
+tensorflow
+librosa
+matplotlib
+PyYAML
